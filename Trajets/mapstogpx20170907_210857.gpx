@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2017 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2017</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/57.1990194,-2.2058792/57.0201086,-2.5407528/57.0611436,-2.9870268/56.7164437,-3.8585958/56.0782658,-3.4828198/55.8834816,-4.3846618/56.1514747,-4.6420014/56.2319481,-5.0737948/56.4146667,-5.4728216/56.6628402,-4.9580524/@56.8532344,-2.3271789,7.46z/data=!4m2!4m1!3e0?hl=en</url-->
+    <time>2017-09-07T23:08:55Z</time>
+  </metadata>
+  <wpt lat="57.1990194" lon="-2.2058792">
+    <name>Aberdeen AB21 7DU</name>
+    <desc>Upper Farburn Rd, Aberdeen AB21 7DU</desc>
+  </wpt>
+  <wpt lat="57.0201086" lon="-2.5407528">
+    <name>Banchory AB31 6NF</name>
+    <desc>B976, Banchory AB31 6NF</desc>
+  </wpt>
+  <wpt lat="57.0611436" lon="-2.9870268">
+    <name>Ballater AB35 5SJ</name>
+    <desc>B976, Ballater AB35 5SJ</desc>
+  </wpt>
+  <wpt lat="56.7164437" lon="-3.8585958">
+    <name>Pitlochry PH16 5NR</name>
+    <desc>B8019, Pitlochry PH16 5NR</desc>
+  </wpt>
+  <wpt lat="56.0782658" lon="-3.4828198">
+    <name>Dunfermline KY12 9AR</name>
+    <desc>125 Rumblingwell, Dunfermline KY12 9AR</desc>
+  </wpt>
+  <wpt lat="55.8834816" lon="-4.3846618">
+    <name>Renfrew PA4</name>
+    <desc>35-43 Ferry Rd, Renfrew PA4</desc>
+  </wpt>
+  <wpt lat="56.1514747" lon="-4.6420014">
+    <name>Glasgow G63 0AR</name>
+    <desc>W Highland Way, Glasgow G63 0AR</desc>
+  </wpt>
+  <wpt lat="56.2319481" lon="-5.0737948">
+    <name>56.2319481</name>
+  </wpt>
+  <wpt lat="56.4146667" lon="-5.4728216">
+    <name>56.4146667</name>
+  </wpt>
+  <wpt lat="56.6628402" lon="-4.9580524">
+    <name>Ballachulish PH49</name>
+    <desc>A82, Ballachulish PH49</desc>
+  </wpt>
+<rte>
+  <name>Aberdeen AB21 7DU to Ballachulish PH49</name>
+  <rtept lat="57.1990198" lon="-2.2058791">
+    <name>RP001</name>
+  </rtept>
+  <rtept lat="57.1990872" lon="-2.2067192">
+    <name>RP002</name>
+  </rtept>
+  <rtept lat="57.1992541" lon="-2.2081204">
+    <name>RP003</name>
+  </rtept>
+  <rtept lat="57.1963212" lon="-2.209296">
+    <name>RP004</name>
+  </rtept>
+  <rtept lat="57.1909373" lon="-2.2111557">
+    <name>RP005</name>
+  </rtept>
+  <rtept lat="57.1930169" lon="-2.2443334">
+    <name>RP006</name>
+  </rtept>
+  <rtept lat="57.1599766" lon="-2.3243319">
+    <name>RP007</name>
+  </rtept>
+  <rtept lat="57.1409557" lon="-2.3322959">
+    <name>RP008</name>
+  </rtept>
+  <rtept lat="57.1389422" lon="-2.3556316">
+    <name>RP009</name>
+  </rtept>
+  <rtept lat="57.1389389" lon="-2.3620024">
+    <name>RP010</name>
+  </rtept>
+  <rtept lat="57.1087093" lon="-2.4241952">
+    <name>RP011</name>
+  </rtept>
+  <rtept lat="57.0811738" lon="-2.5064357">
+    <name>RP012</name>
+  </rtept>
+  <rtept lat="57.0517484" lon="-2.4881363">
+    <name>RP013</name>
+  </rtept>
+  <rtept lat="57.0513191" lon="-2.5024692">
+    <name>RP014</name>
+  </rtept>
+  <rtept lat="57.020578" lon="-2.5361018">
+    <name>RP015</name>
+  </rtept>
+  <rtept lat="57.020098" lon="-2.5407466">
+    <name>RP016</name>
+  </rtept>
+  <rtept lat="57.0611436" lon="-2.9870268">
+    <name>RP017</name>
+  </rtept>
+  <rtept lat="57.0465516" lon="-3.0350764">
+    <name>RP018</name>
+  </rtept>
+  <rtept lat="57.0501025" lon="-3.0428259">
+    <name>RP019</name>
+  </rtept>
+  <rtept lat="56.7093967" lon="-3.4143871">
+    <name>RP020</name>
+  </rtept>
+  <rtept lat="56.7201752" lon="-3.4997259">
+    <name>RP021</name>
+  </rtept>
+  <rtept lat="56.7201048" lon="-3.4999912">
+    <name>RP022</name>
+  </rtept>
+  <rtept lat="56.7035607" lon="-3.7352872">
+    <name>RP023</name>
+  </rtept>
+  <rtept lat="56.709625" lon="-3.7567286">
+    <name>RP024</name>
+  </rtept>
+  <rtept lat="56.7279037" lon="-3.7743994">
+    <name>RP025</name>
+  </rtept>
+  <rtept lat="56.7164437" lon="-3.8585958">
+    <name>RP026</name>
+  </rtept>
+  <rtept lat="56.7279037" lon="-3.7743994">
+    <name>RP027</name>
+  </rtept>
+  <rtept lat="56.7097185" lon="-3.7568227">
+    <name>RP028</name>
+  </rtept>
+  <rtept lat="56.7084803" lon="-3.7505283">
+    <name>RP029</name>
+  </rtept>
+  <rtept lat="56.7092628" lon="-3.7543035">
+    <name>RP030</name>
+  </rtept>
+  <rtept lat="56.419593" lon="-3.4649035">
+    <name>RP031</name>
+  </rtept>
+  <rtept lat="56.3887103" lon="-3.4867469">
+    <name>RP032</name>
+  </rtept>
+  <rtept lat="56.3690189" lon="-3.4331398">
+    <name>RP033</name>
+  </rtept>
+  <rtept lat="56.1319135" lon="-3.3956978">
+    <name>RP034</name>
+  </rtept>
+  <rtept lat="56.1298763" lon="-3.3934149">
+    <name>RP035</name>
+  </rtept>
+  <rtept lat="56.1296113" lon="-3.394796">
+    <name>RP036</name>
+  </rtept>
+  <rtept lat="56.1229158" lon="-3.4380911">
+    <name>RP037</name>
+  </rtept>
+  <rtept lat="56.1067208" lon="-3.4548576">
+    <name>RP038</name>
+  </rtept>
+  <rtept lat="56.1060603" lon="-3.4632659">
+    <name>RP039</name>
+  </rtept>
+  <rtept lat="56.0955067" lon="-3.4667841">
+    <name>RP040</name>
+  </rtept>
+  <rtept lat="56.0942936" lon="-3.5018768">
+    <name>RP041</name>
+  </rtept>
+  <rtept lat="56.0818293" lon="-3.4994044">
+    <name>RP042</name>
+  </rtept>
+  <rtept lat="56.0782658" lon="-3.4828198">
+    <name>RP043</name>
+  </rtept>
+  <rtept lat="56.0990415" lon="-3.7172332">
+    <name>RP044</name>
+  </rtept>
+  <rtept lat="56.0963064" lon="-3.7181839">
+    <name>RP045</name>
+  </rtept>
+  <rtept lat="56.0627639" lon="-3.7368105">
+    <name>RP046</name>
+  </rtept>
+  <rtept lat="56.0553841" lon="-3.7521425">
+    <name>RP047</name>
+  </rtept>
+  <rtept lat="56.0460551" lon="-3.7801824">
+    <name>RP048</name>
+  </rtept>
+  <rtept lat="56.0451721" lon="-3.7961741">
+    <name>RP049</name>
+  </rtept>
+  <rtept lat="56.0430747" lon="-3.8148437">
+    <name>RP050</name>
+  </rtept>
+  <rtept lat="56.0413806" lon="-3.8253838">
+    <name>RP051</name>
+  </rtept>
+  <rtept lat="56.0004081" lon="-3.9210545">
+    <name>RP052</name>
+  </rtept>
+  <rtept lat="55.9241548" lon="-4.0489208">
+    <name>RP053</name>
+  </rtept>
+  <rtept lat="55.8682133" lon="-4.2076956">
+    <name>RP054</name>
+  </rtept>
+  <rtept lat="55.850154" lon="-4.2897917">
+    <name>RP055</name>
+  </rtept>
+  <rtept lat="55.864254" lon="-4.3567633">
+    <name>RP056</name>
+  </rtept>
+  <rtept lat="55.8725978" lon="-4.3655969">
+    <name>RP057</name>
+  </rtept>
+  <rtept lat="55.8732335" lon="-4.3662071">
+    <name>RP058</name>
+  </rtept>
+  <rtept lat="55.8734293" lon="-4.3682985">
+    <name>RP059</name>
+  </rtept>
+  <rtept lat="55.8838285" lon="-4.3846213">
+    <name>RP060</name>
+  </rtept>
+  <rtept lat="55.8834816" lon="-4.3846618">
+    <name>RP061</name>
+  </rtept>
+  <rtept lat="55.8838285" lon="-4.3846213">
+    <name>RP062</name>
+  </rtept>
+  <rtept lat="55.873803" lon="-4.3682693">
+    <name>RP063</name>
+  </rtept>
+  <rtept lat="55.8732192" lon="-4.3653958">
+    <name>RP064</name>
+  </rtept>
+  <rtept lat="55.8646749" lon="-4.3571687">
+    <name>RP065</name>
+  </rtept>
+  <rtept lat="55.8565668" lon="-4.3456014">
+    <name>RP066</name>
+  </rtept>
+  <rtept lat="55.8898334" lon="-4.3260505">
+    <name>RP067</name>
+  </rtept>
+  <rtept lat="55.8903452" lon="-4.3261274">
+    <name>RP068</name>
+  </rtept>
+  <rtept lat="55.9102105" lon="-4.3245391">
+    <name>RP069</name>
+  </rtept>
+  <rtept lat="55.9261647" lon="-4.3433637">
+    <name>RP070</name>
+  </rtept>
+  <rtept lat="56.0531369" lon="-4.4520293">
+    <name>RP071</name>
+  </rtept>
+  <rtept lat="56.0599248" lon="-4.4519662">
+    <name>RP072</name>
+  </rtept>
+  <rtept lat="56.0652814" lon="-4.4523275">
+    <name>RP073</name>
+  </rtept>
+  <rtept lat="56.0845412" lon="-4.5441301">
+    <name>RP074</name>
+  </rtept>
+  <rtept lat="56.099074" lon="-4.5573384">
+    <name>RP075</name>
+  </rtept>
+  <rtept lat="56.1019497" lon="-4.5637355">
+    <name>RP076</name>
+  </rtept>
+  <rtept lat="56.1186879" lon="-4.5892452">
+    <name>RP077</name>
+  </rtept>
+  <rtept lat="56.1458855" lon="-4.6386781">
+    <name>RP078</name>
+  </rtept>
+  <rtept lat="56.151495" lon="-4.6419521">
+    <name>RP079</name>
+  </rtept>
+  <rtept lat="56.1514708" lon="-4.6419988">
+    <name>RP080</name>
+  </rtept>
+  <rtept lat="56.1517067" lon="-4.6425311">
+    <name>RP081</name>
+  </rtept>
+  <rtept lat="56.1517606" lon="-4.6420611">
+    <name>RP082</name>
+  </rtept>
+  <rtept lat="56.1211094" lon="-4.5920851">
+    <name>RP083</name>
+  </rtept>
+  <rtept lat="56.1023163" lon="-4.5642217">
+    <name>RP084</name>
+  </rtept>
+  <rtept lat="56.1000354" lon="-4.5602357">
+    <name>RP085</name>
+  </rtept>
+  <rtept lat="56.0845412" lon="-4.5441301">
+    <name>RP086</name>
+  </rtept>
+  <rtept lat="56.0652814" lon="-4.4523275">
+    <name>RP087</name>
+  </rtept>
+  <rtept lat="56.0599248" lon="-4.4519662">
+    <name>RP088</name>
+  </rtept>
+  <rtept lat="56.0531369" lon="-4.4520293">
+    <name>RP089</name>
+  </rtept>
+  <rtept lat="56.0031157" lon="-4.5744584">
+    <name>RP090</name>
+  </rtept>
+  <rtept lat="55.9999872" lon="-4.5884767">
+    <name>RP091</name>
+  </rtept>
+  <rtept lat="55.9984194" lon="-4.5965445">
+    <name>RP092</name>
+  </rtept>
+  <rtept lat="56.0263419" lon="-4.6341381">
+    <name>RP093</name>
+  </rtept>
+  <rtept lat="56.202857" lon="-4.7106322">
+    <name>RP094</name>
+  </rtept>
+  <rtept lat="56.2319526" lon="-5.0737766">
+    <name>RP095</name>
+  </rtept>
+  <rtept lat="56.4055528" lon="-5.012353">
+    <name>RP096</name>
+  </rtept>
+  <rtept lat="56.4190605" lon="-5.474523">
+    <name>RP097</name>
+  </rtept>
+  <rtept lat="56.4121892" lon="-5.4722726">
+    <name>RP098</name>
+  </rtept>
+  <rtept lat="56.4147178" lon="-5.4727352">
+    <name>RP099</name>
+  </rtept>
+  <rtept lat="56.4182719" lon="-5.4757585">
+    <name>RP100</name>
+  </rtept>
+  <rtept lat="56.4190076" lon="-5.4746889">
+    <name>RP101</name>
+  </rtept>
+  <rtept lat="56.4539682" lon="-5.3949613">
+    <name>RP102</name>
+  </rtept>
+  <rtept lat="56.5502095" lon="-5.2924381">
+    <name>RP103</name>
+  </rtept>
+  <rtept lat="56.684765" lon="-5.1739314">
+    <name>RP104</name>
+  </rtept>
+</rte>
+</gpx>

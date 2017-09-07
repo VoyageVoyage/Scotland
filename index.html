@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html ng-app="Scotland">
+  <head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <meta http-equiv="Content-Language" content="fr" />
+   <meta name="author" content="Johannès Chapas" />
+   <link href="https://fonts.googleapis.com/css?family=Pacifico|Open-sans" rel="stylesheet">
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+   <link rel="stylesheet" href="style.css">
+   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+   <title>Ecosse</title>
+  </head>
+  <body>
+    <div id="story"></div>
+    <div id="mapid"></div>
+    <div id="diapo" ng-controller="PhotosController as diapo" ng-show="diapo.isOpen">
+    </div>
+    <script src="http://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+
+  </body>
+</html>
